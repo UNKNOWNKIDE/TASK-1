@@ -1,4 +1,4 @@
- # Caesar Cipher GUI Application
+ # Caesar Cipher 
 
 Overview : 
 The Caesar Cipher GUI Application is a Python-based tool that enables users to encrypt or decrypt text using the Caesar cipher technique. The graphical user interface (GUI) simplifies the process, making it accessible to both technical and non-technical users.The Caesar cipher is a substitution cipher where each letter in the plaintext is shifted by a fixed number of positions in the alphabet. This application provides options to customize the shift value and select between encryption and decryption modes.
